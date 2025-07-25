@@ -6,7 +6,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-primary rounded-lg"></div>
-              <span className="font-bold text-xl">PsicoRisk</span>
+              <span className="font-bold text-xl">NRiscoPsi</span>
             </div>
             <p className="text-sm text-background/70">
               Consultoria especializada em Riscos Psicossociais para empresas que se preocupam com o bem-estar dos colaboradores.
