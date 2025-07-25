@@ -1,8 +1,6 @@
 import { Separator } from "@/components/ui/separator";
-
 const Footer = () => {
-  return (
-    <footer className="bg-foreground text-background py-12">
+  return <footer className="bg-foreground text-background py-12">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8">
           <div className="space-y-4">
@@ -40,9 +38,9 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="font-semibold">Contato</h3>
             <ul className="space-y-2 text-sm text-background/70">
-              <li>(11) 9999-9999</li>
+              <li>(41) 9970-9500</li>
               <li>contato@psicorisk.com.br</li>
-              <li>São Paulo - SP</li>
+              <li>Santa Catarina - SC</li>
               <li>Atendimento nacional</li>
             </ul>
           </div>
@@ -61,8 +59,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-    </footer>
-  );
+    </footer>;
 };
-
 export default Footer;
