@@ -49,9 +49,7 @@ const Footer = () => {
         <Separator className="my-8 bg-background/20" />
         
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-          <p className="text-sm text-background/70">
-            © 2024 PsicoRisk. Todos os direitos reservados.
-          </p>
+          <p className="text-sm text-background/70">© 2024 NRiscoPsi. Todos os direitos reservados.</p>
           <div className="flex space-x-6 text-sm text-background/70">
             <a href="#" className="hover:text-primary transition-colors">Política de Privacidade</a>
             <a href="#" className="hover:text-primary transition-colors">Termos de Uso</a>
