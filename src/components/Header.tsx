@@ -22,7 +22,7 @@ const Header = () => {
         </nav>
         
         <Button variant="professional" size="lg">
-          Consultoria Gratuita
+          Agendar Reunião
         </Button>
       </div>
     </header>
